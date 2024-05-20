@@ -1,11 +1,11 @@
 # nonebot-plugin-emojimix-2
 
-适用于 [Nonebot2](https://github.com/nonebot/nonebot2) 的 emoji 合成器
+适用于 [Nonebot2](https://github.com/nonebot/nonebot2) 的 emoji 合成器，在原版的基础上补齐了更多emoji
 
 😎+😁=？
 
 ### 变更说明
-在原版的基础上补齐了更多emoji（具体是去[emoji](https://backend.emojikitchen.dev/)扒下来分析了下，整合了大部分已知emoji并转化成原插件可识别的十进制，最新的数据可以追踪到20240206。）
+具体是去[emoji](https://backend.emojikitchen.dev/)扒下来分析了下，整合了大部分已知emoji并转化成原插件可识别的十进制，最新的数据可以追踪到20240206。
 
 
 ### 安装
