@@ -27,5 +27,5 @@ http_proxy=http://ip:port
 ### 示例
 
 <div align="left">
-  <img src="![example.png](https://s2.loli.net/2024/05/22/ZfIXUGbpjCqHn6Y.png" width="400" />
+  <img src="![example.png](https://s2.loli.net/2024/05/22/ZfIXUGbpjCqHn6Y.png)" width="400" />
 </div>
