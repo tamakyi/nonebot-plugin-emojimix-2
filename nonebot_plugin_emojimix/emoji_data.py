@@ -1,6 +1,6 @@
 # https://github.com/xsalazar/emoji-kitchen/blob/main/scripts/index.js
 # Modify by tamakyi.
-# Last change on 20240521
+# Last change on 20250430
 
 emojis = [
     [129402],
@@ -576,4 +576,11 @@ dates = [
     "20231113",
     "20231128",
     "20240206",
+    "20240530",
+    "20240610",
+    "20240715",
+    "20241021",
+    "20241023",
+    "20250130",
+    "20250430",
 ]
